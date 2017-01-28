@@ -1,0 +1,42 @@
+{
+  "name": "comp308-w2017-lab1",
+  "version": "1.0.0",
+  "description": "Express server",
+  "main": "server.js",
+  "dependencies": {
+<<<<<<< HEAD
+    "express": "^4.14.0"
+=======
+    "connect": "^3.5.0"
+>>>>>>> b63fad330624c108f38900a4f73906c9c63cd08f
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Sisi Li",
+  "license": "ISC",
+<<<<<<< HEAD
+
+  "engines": {
+    "node": ">=6.0.0",
+    "npm": ">=3.5.0"
+
+  },
+
+=======
+>>>>>>> b63fad330624c108f38900a4f73906c9c63cd08f
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VivianSs/COMP308-W2017-Lab1.git"
+  },
+  "keywords": [
+    "express",
+    "NodeJs"
+  ],
+  "bugs": {
+    "url": "https://github.com/VivianSs/COMP308-W2017-Lab1/issues"
+  },
+  "homepage": "https://github.com/VivianSs/COMP308-W2017-Lab1#readme"
+}
